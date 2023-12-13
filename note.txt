@@ -1,2 +1,9 @@
 Webcode: codesignal
 Nhut Anh hoom nay duoc 4 diem cong
+#include<iostream>
+using namespace std;
+int main()
+{
+  cout << "Hello world";
+  return 0;
+}
