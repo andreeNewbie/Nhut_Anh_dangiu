@@ -11,7 +11,7 @@
     - CÁC THIẾT BỊ NHẬP: bàn phím, chuột, máy in, webcam,..
     - CÁC THIẾT BỊ XUẤT: loa, màn hình,..
     - MẠCH LUẬN LÝ CƠ BẢN: AND NAND OR NOR XOR
-    - HỆ THỐNG NHỊ PHÂN: max, min trong n bit, số âm lưu trữ trong máy, chuyển số từ hệ này sang hệ khác **(số âm, dạng bù 1, dạng bù 2, nhị phân -> thập phân số âm,..)**
+###    - HỆ THỐNG NHỊ PHÂN: max, min trong n bit, số âm lưu trữ trong máy, chuyển số từ hệ này sang hệ khác **(số âm, dạng bù 1, dạng bù 2, nhị phân -> thập phân số âm,..)**
         + Đảo tất cả các bit.
         + Cộng với 1.
         + x - y = x + bù 2 của y
@@ -25,12 +25,25 @@
 **Phân tích yêu cầu -> Thiết kế -> Cài đặt -> Kiểm thử**
 *List khác khái niệm, nguyên lý*
 ### Luật bản quyền phần mềm
-### Hệ điều hành:
+## Hệ điều hành:
     - Hệ thỗng xử lí theo lô
     - Hệ thống đa chương
     - Hệ thống chia sẻ thời gian
     - Hệ thống song song
     - Hệ thống Phân tán
     - Hệ thống mạng
-    - Hệ thống thời gian thực
+    - Hệ thống thời gian thực: xử lí và phản hồi các yêu cầu trong thời gian rất nhỏ, ví dụ: hệ thống tên lửa, hệ thống không lưu.
+
+## Mạng máy tính:
+    - PAN
+    - LAN
+    - CAN
+    - MAN
+    - WAN
+## CÁC THIẾT BỊ MẠNG:
+    - Repeater:
+    - Bridge:
+    - Switch:
+    - Router:
+    - Hub;
     
