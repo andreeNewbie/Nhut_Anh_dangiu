@@ -1,4 +1,4 @@
-# CHUONG 1: LỊCH SỬ HÌNH THÀNH MÁY TÍNH
+# CHƯƠNG 1: LỊCH SỬ HÌNH THÀNH MÁY TÍNH
 ## CÓ 5 THẾ HỆ MÁY TÍNH
     - Thế hệ 1: Chưa có hệ điều hành
     - Thế hệ 2: Có HDH, HDH hỗ trợ chuyển đổi ...
@@ -24,3 +24,13 @@
 ### Qui trình phát triển phần mềm
 **Phân tích yêu cầu -> Thiết kế -> Cài đặt -> Kiểm thử**
 *List khác khái niệm, nguyên lý*
+### Luật bản quyền phần mềm
+### Hệ điều hành:
+    - Hệ thỗng xử lí theo lô
+    - Hệ thống đa chương
+    - Hệ thống chia sẻ thời gian
+    - Hệ thống song song
+    - Hệ thống Phân tán
+    - Hệ thống mạng
+    - Hệ thống thời gian thực
+    
