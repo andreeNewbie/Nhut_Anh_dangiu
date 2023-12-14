@@ -15,3 +15,12 @@
         + Đảo tất cả các bit.
         + Cộng với 1.
         + x - y = x + bù 2 của y
+## PHẦN MỀM
+    - Phần mềm hệ thống
+    - Phần mềm ứng dụng
+    - Phần mềm tiện ích
+    - Phần mềm hỗ trợ phát triển công cụ/ phần mềm: 
+    **Tìm ví dụ**
+### Qui trình phát triển phần mềm
+**Phân tích yêu cầu -> Thiết kế -> Cài đặt -> Kiểm thử**
+*List khác khái niệm, nguyên lý*
