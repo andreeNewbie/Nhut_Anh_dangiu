@@ -11,8 +11,11 @@
     - CÁC THIẾT BỊ NHẬP: bàn phím, chuột, máy in, webcam,..
     - CÁC THIẾT BỊ XUẤT: loa, màn hình,..
     - MẠCH LUẬN LÝ CƠ BẢN: AND NAND OR NOR XOR
-###    - HỆ THỐNG NHỊ PHÂN: 
-    max, min trong n bit, số âm lưu trữ trong máy, chuyển số từ hệ này sang hệ khác **(số âm, dạng bù 1, dạng bù 2, nhị phân -> thập phân số âm,..)**
+###    - HỆ THỐNG NHỊ PHÂN:
+ 
+    max, min trong n bit, số âm lưu trữ trong máy, chuyển số từ hệ này sang hệ khác 
+    
+    **(số âm, dạng bù 1, dạng bù 2, nhị phân -> thập phân số âm,..)**
         + Đảo tất cả các bit.
         + Cộng với 1.
         + x - y = x + bù 2 của y
