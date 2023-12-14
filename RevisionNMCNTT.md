@@ -23,7 +23,8 @@
     - Phần mềm hỗ trợ phát triển công cụ/ phần mềm: 
     **Tìm ví dụ**
 ### Qui trình phát triển phần mềm
-**Phân tích yêu cầu -> Thiết kế -> Cài đặt -> Kiểm thử**
+**Phân tích yêu cầu -> Thiết kế -> Cài đặt -> Kiểm thử** 
+
 *List khác khái niệm, nguyên lý*
 ### Luật bản quyền phần mềm
 ## Hệ điều hành:
