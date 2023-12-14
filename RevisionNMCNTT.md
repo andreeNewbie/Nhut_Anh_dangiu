@@ -51,3 +51,8 @@
 Hệ thống mạng riêng ảo
 ## Hệ thống thông tin:
 Thu thập, xử lí, lưu trữ và phân phối thông tin.
+## KHOA HỌC MÁY TÍNH
+### Trí tuệ nhân tạo
+### Machine learning
+### Deep learning
+### DL (Tập con của ML)
